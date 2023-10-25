@@ -1,5 +1,5 @@
 {
-    "name": "Ricardo-Uribia-Blue/custom-pagination",
+    "name": "ricardo-uribia-blue/custom-pagination",
     "description": "Componente generico de paginacion que recibe parametros @props",
     "version": "1.1.0",
     "license": "MIT",
